@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hiba Hussieni 👋
 
-<!--
-**hiba-hussieni/hiba-hussieni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Web & Mobile Developer
 
-Here are some ideas to get you started:
+Computer & Communication Engineering graduate focused on developing practical, user-friendly web and Android applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 💼 Software Development Intern — PHP Track at TechTalks
+* 🚀 Building and improving my full-stack development portfolio
+* 📍 Based in Lebanon
+* 🌍 Open to junior Front-End, Back-End, Full-Stack, and Android opportunities — Remote, Hybrid, or On-site
+
+## 🛠️ Tech Stack
+
+* **Front End:** HTML, CSS, JavaScript
+* **Back End:** PHP, Laravel, Java, Spring Boot
+* **Database:** MySQL
+* **Mobile:** Android Development
+* **Editors & IDEs:** Visual Studio Code, Sublime Text, Android Studio, IntelliJ IDEA
+* **Tools & Platforms:** Git, GitHub, Jira, XAMPP, Replit, Wokwi
+
+
+
+## 📫 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/hiba-hussieni)
+* [Email](mailto:hussienihiba@gmail.com)
